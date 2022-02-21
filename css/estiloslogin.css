@@ -1,0 +1,12 @@
+body{
+  background:#000000;
+}
+
+a,h3{
+  color:#0400d3;
+}
+
+.imagen{
+  justify-content: center;
+  text-align: center;
+}
